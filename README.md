@@ -3,7 +3,8 @@
 Actually learning Git!
  
 
-##topics
--git pull
--git push
--git clone
+## topics
+- git pull
+- git push
+- git clone
+- git push
